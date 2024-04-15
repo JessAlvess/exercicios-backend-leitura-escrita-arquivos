@@ -1,0 +1,27 @@
+{
+  "name": "exercicios-backend-leitura-escrita-arquivos",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./01/src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessAlvess/exercicios-backend-leitura-escrita-arquivos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JessAlvess/exercicios-backend-leitura-escrita-arquivos/issues"
+  },
+  "homepage": "https://github.com/JessAlvess/exercicios-backend-leitura-escrita-arquivos#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "utils-playground": "^1.3.1"
+  }
+}
