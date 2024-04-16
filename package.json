@@ -4,7 +4,7 @@
   "description": "![](https://i.imgur.com/xG74tOh.png)",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./01/src/index.js"
+    "dev": "nodemon ./03/src/index.js"
   },
   "repository": {
     "type": "git",
