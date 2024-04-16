@@ -38,7 +38,7 @@ async function busqueOEndereco(req, res) {
       enderecosJson.push(enderecoEncontrado);
       await fs.writeFile(
         "./03/src/enderecos.json",
-        JSON.stringify(enderecoEncontrado)
+        JSON.stringify(enderecosJson)
       );
     }
 
